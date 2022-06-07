@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>  Fueled by Tea  <img src="./tea.gif" width="50px"></h1>
+   <h1>  Fueled by Tea  <img src="./tea.gif" width="50px" height="40px"></h1>
 </div>
 
 
